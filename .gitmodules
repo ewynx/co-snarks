@@ -1,0 +1,3 @@
+[submodule "co-noir/co-noir/examples/test_vectors/noir_mpc_ml/dependencies/noir_mpc_ml"]
+	path = co-noir/co-noir/examples/test_vectors/noir_mpc_ml/dependencies/noir_mpc_ml
+	url = https://github.com/hashcloak/noir-mpc-ml
